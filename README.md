@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @0xMazen
-- 👀 I’m interested in cyber security
-- 🐇 I’m currently learning AD/Docker/Network/AAD
-- 📫 How to reach me Twitter: @0xiMazen
+- 🐇 Hi, I’m @0xiMazen
 
 <!---
 - 💞️ I’m looking to collaborate on ...
